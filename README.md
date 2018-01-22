@@ -1,5 +1,7 @@
 # Essential Netty in Action 《Netty 实战(精髓)》
 
+> 本开源书 forked from [Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)，作者为 [waylau](https://github.com/waylau)，欢迎大家 star 原作者的 [repo](https://github.com/waylau/essential-netty-in-action)，以便获得最新更新，谢谢！
+
 ![](images/netty-in-action-logo.jpg)
 
 It is a book about the Essentials of Norman Maurer's [Netty in Action](http://manning.com/maurer/)(base on MEAP v10). Through this book, you can quickly start with Netty. This is a GitBook version of the book: <http://waylau.gitbooks.io/essential-netty-in-action/>
