@@ -2,6 +2,7 @@
 
 This is the summary of my book.
 
+* [Introduction](README.md)
 * 开始
 	* [Netty-异步和数据驱动](GETTING STARTED/Asynchronous and Event Driven.md)
 		* [Netty 介绍](GETTING STARTED/Introducing Netty.md)
